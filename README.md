@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **JEPEREZR/jeperezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Jeperezr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeperezr&show_icons=true&theme=dracula)
+
+![Jeperezr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeperezr&show_icons=true&theme=dracula&count_private=true&show_owner=true)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeperezr&langs_count=8&theme=dracula)]((https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeperezr&langs_count=8&theme=dracula&count_private=true)]((https://github.com/anuraghazra/github-readme-stats))
+
+
+[![Jeperezr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeperezr)](https://github.com/anuraghazra/github-readme-stats)
 
