@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeperezr&layout=compact)](https://github.com/jeperezr/github-readme-stats)
+![Jeperezr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeperezr&show_icons=true&theme=dracula)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeperezr&langs_count=8&theme=dracula)](https://github.com/RancaguaInnova/rancagua-digital-app)
+
