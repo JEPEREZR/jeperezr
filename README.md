@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Jeperezr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeperezr&show_icons=true&theme=dracula)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeperezr&langs_count=8&theme=dracula)](https://github.com/RancaguaInnova/rancagua-digital-app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeperezr&langs_count=8&theme=dracula)]((https://github.com/anuraghazra/github-readme-stats))
 
