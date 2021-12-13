@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on  https://github.com/RancaguaInnova/rancagua-digital-app <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<br />
+🌱 I’m currently learning <img alt="React" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+
+
+
 
 ![Jeperezr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeperezr&show_icons=true&theme=dracula&count_private=true&show_owner=true)
 <br/>
