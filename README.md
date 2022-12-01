@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I’m currently learning <img alt="React" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-<br />
 
 
 
