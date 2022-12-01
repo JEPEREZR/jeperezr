@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning <img alt="React" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
 <br />
-🔭 I’m currently working on
-<a href="https://github.com/RancaguaInnova/rancagua-digital-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RancaguaInnova&repo=rancagua-digital-app" />
-</a>
+
 
 
 💪Some of my public stats
